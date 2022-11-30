@@ -9,7 +9,7 @@ This is the place for my side projects, learning path and future contributions t
 
 Please feel free to review, fork, star and issue any repository. Feedback is always welcome!
 
-## I'm also open to work! Find me on:
+## Find me on:
 > [Linkedin](https://www.linkedin.com/in/chihabhk/)
 
 
