@@ -1,7 +1,7 @@
  
- ![Github Banner](https://user-images.githubusercontent.com/107477676/204880514-447dc5d1-c66d-491c-8be3-8037858eae0f.png)
+ ![Github Banner]([https://user-images.githubusercontent.com/107477676/204880514-447dc5d1-c66d-491c-8be3-8037858eae0f.png](https://github.com/Chihabhk/Chihabhk/assets/107477676/3a125420-fda0-4b55-a10b-3caa7cf3e693))
 
- 
+
  # Hi there, thanks for following my work!
  
 ### What are you gonna find?
